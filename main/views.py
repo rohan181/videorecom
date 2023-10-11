@@ -38,7 +38,7 @@ from gensim import corpora
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
-
+###yyy
 @login_required
 def index(request):
     user = request.user
